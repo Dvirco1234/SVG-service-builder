@@ -1,1 +1,4 @@
 node_modules
+svgs/*
+!svgs/SVGs.txt
+output/*
