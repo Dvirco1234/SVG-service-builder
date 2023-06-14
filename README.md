@@ -4,7 +4,7 @@
 
 # SVG Service Builder
 
-## Mini Node.js script to convert folder with SVG files to a JavaScript service
+**Mini Node.js script to convert folder with SVG files to a JavaScript service**
 
 This is a mini Node.js script that converts a folder containing SVG files into a JavaScript service. The generated service allows for easy and convenient use of SVGs across any application.
 
