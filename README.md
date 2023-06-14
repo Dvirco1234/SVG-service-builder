@@ -38,7 +38,8 @@ node build-service.js
 ```
 
 6. The script will convert the SVG files into a JavaScript service and generate an `svgService.js` file in the folder `output`.
-7. The service is ready
+
+7. The service is ready to use!!! You can copy the `svgService.js` file into your application's source code.
 
 ## Customization
 
